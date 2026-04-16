@@ -19,15 +19,6 @@ Sou Site Reliability Engineer com mais de 10 anos de experiência em infraestrut
 - ☁️ Aumento de confiabilidade e estabilidade de ambientes cloud‑native
 - 🔁 Cultura DevOps e entrega contínua segura
 
-## Projetos e destaques
-- Repositórios com exemplos de:
-  - Infraestrutura com Terraform
-  - Pipelines de CI/CD (Jenkins / GitHub Actions)
-  - Deploys e implantação on‑prem ↔ cloud com Kubernetes
-  - Observability / dashboards / alerting
-
-(Pinne 3–4 repositórios aqui que demonstrem K8s, Terraform e CI/CD para maior impacto.)
-
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/josu%C3%A9-barros/
 - Email: josue.bsant@gmail.com
