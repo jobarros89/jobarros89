@@ -1,26 +1,11 @@
 # Josué Barros Santos
 
-🚀 SRE | Kubernetes | AWS & Azure | Infraestrutura como Código | Automação
+Site Reliability Engineer e DevOps Engineer com mais de 10 anos de experiência em infraestrutura, cloud e ambientes críticos.
 
-Sou Site Reliability Engineer com mais de 10 anos de experiência em infraestrutura e cloud, atuando em ambientes críticos de alta disponibilidade e missão essencial. Trabalho como ponte entre infraestrutura e desenvolvimento, promovendo práticas DevOps, automação e entrega contínua segura.
+**Stack:** Kubernetes (AKS, GKE, EKS) · Terraform · AWS · Azure · CI/CD · GitHub Actions · Jenkins · Datadog · Dynatrace · AppDynamics · automação e resposta a incidentes.
 
-## Especialidades
-- ☸️ Kubernetes (AKS, GKE)
-- ☁️ AWS (EC2, EKS, IAM, Networking) e Azure (AKS, Networking)
-- 🏗️ Terraform — Infraestrutura como Código (IaC)
-- 🔄 CI/CD — Jenkins, GitHub Actions
-- 📊 Observabilidade — Datadog, Dynatrace, AppDynamics
-- 🔐 Segurança operacional e gestão de incidentes
+## Projeto em destaque
 
-## Foco profissional
-- 🔴 Redução de incidentes em produção
-- 📈 Melhoria contínua de SLA (99,9%+)
-- ⚙️ Automação de processos operacionais e runbooks
-- ☁️ Aumento de confiabilidade e estabilidade de ambientes cloud‑native
-- 🔁 Cultura DevOps e entrega contínua segura
+[LUNOR](https://github.com/jobarros89/lunor) — plataforma SaaS para organizar ministérios, equipes, escalas e a operação de igrejas.
 
-## Contato
-- LinkedIn: https://www.linkedin.com/in/josu%C3%A9-barros/
-- Email: josue.bsant@gmail.com
-
----
+[LinkedIn](https://www.linkedin.com/in/josu%C3%A9-barros/)
