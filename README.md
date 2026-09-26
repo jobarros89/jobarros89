@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Josué Barros Santos
+# Olá, eu sou Josué Santos 
 
 ### Site Reliability Engineer · DevOps Engineer · Cloud Engineer
 
